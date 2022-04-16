@@ -5,42 +5,48 @@
       "ticker": "GOOG",
       "name": "Google",
       "type": "Tech",
-      "price": 1194.8
+      "price": 1194.8,
+      "inPort": false
     },
     {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
       "type": "Tech",
-      "price": 168.85
+      "price": 168.85,
+      "inPort": false
     },
     {
       "id": 3,
       "ticker": "TWTR",
       "name": "Twitter",
       "type": "Tech",
-      "price": 29.41
+      "price": 29.41,
+      "inPort": false
     },
     {
       "id": 4,
       "ticker": "AMZN",
       "name": "Amazon",
       "type": "Tech",
-      "price": 2013.04
+      "price": 2013.04,
+      "inPort": false
     },
     {
       "id": 5,
       "ticker": "V",
       "name": "Visa",
       "type": "Finance",
-      "price": 150.05
+      "price": 150.05,
+      "inPort": false
     },
     {
       "id": 6,
       "ticker": "BAC",
       "name": "Bank of America",
       "type": "Finance",
-      "price": 29.95
+      "price": 29.95,
+      "inPort": true
     },
     {
       "id": 7,
